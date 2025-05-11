@@ -1,47 +1,84 @@
-<h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">A passionate developer and tech enthusiast</h3>
+<!-- README.md for GitHub profile -->
+<h1 align="center">Hi 👋, I'm Anurag Singh</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | AI & ML Enthusiast | Full-Stack Learner | Pythonic Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Engineer+in+Progress;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-- 🔭 I’m currently working on **AI-powered automation tools**
-- 🌱 I’m currently learning **Machine Learning and Cloud Computing**
-- 👯 I’m looking to collaborate on **Open Source AI Projects**
-- 💬 Ask me about **Python, Git, or Cloud Infra**
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-anurag@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anurag@gmail.com)
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,git,github,linux,figma,aws" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0D9BD4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;AI+%26+Data+Science+Explorer;Cloud+and+Big+Data+Engineer+in+the+Making" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 👨‍💻 About Me
+
+- 🎓 B.Tech CSE student at Lovely Professional University  
+- 🌍 From Farrukhabad, Uttar Pradesh, India  
+- 🛠️ Skilled in **Python, ML/DL, Cloud Computing (AWS), DSA, Tableau, Power BI**  
+- 📫 Email me at: **anuragrajput874@gmail.com**  
+- 🔗 [LinkedIn](https://linkedin.com/in/anuragsingh16/) | [GitHub](https://github.com/anuragsingh16)  
+
+---
+
+### 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuragsingh16&show_icons=true&theme=github_dark&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsingh16&theme=github-dark" />
 </p>
 
 ---
 
-### 🌐 Connect with me
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **Real-Time Emotion Detection** | Detects facial emotions live using webcam and DeepFace | Python, OpenCV, DeepFace | [View on GitHub](https://github.com/anuragsingh16/) |
+| **Cloud Monitoring & Visualization** | AWS CloudWatch + Grafana observability system for EC2 and ALB | AWS, Grafana, Python | [View on GitHub](https://github.com/anuragsingh16/) |
+| **Voice Assistant AI** | Multi-purpose voice assistant using Gemini AI API | Python, SpeechRecognition | [GitHub Repo](https://github.com/anuragsingh16/Ai-ML/) |
+| **Time Series Forecasting** | ARIMA + XGBoost for solar data and wine classification | Python, Scikit-learn | [GitHub Repo](https://github.com/anuragsingh16/Data_Science_proj/) |
+
+---
+
+### 🏅 Certifications
+
+- 📘 Supervised Machine Learning — Coursera (Nov 2024)
+- 📊 Data Analysis with Tableau — Coursera (Nov 2024)
+- 🧠 Machine Learning — NPTEL (Dec 2024)
+- 🔁 DSA - GeeksForGeeks (July–Aug 2024)
+
+---
+
+### 🚀 Startup & Achievements
+
+- 🏢 Registered a tech startup on Yukti Portal (Gov. of India)
+- 💡 Actively involved in open source & cloud-native development
+- 👨‍🏫 Deep knowledge in building real-time AI applications
+
+---
+
+### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/anurag"><img src="https://img.shields.io/badge/-Anurag-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/anurag"><img src="https://img.shields.io/badge/-Anurag-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/anurag"><img src="https://img.shields.io/badge/-Anurag-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:anuragrajput874@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/anuragsingh16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/anuragsingh16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-### 🔥 Contribution Graph
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" alt="pacman-animation"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anurag&theme=github-compact" />
-</p>
